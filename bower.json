@@ -7,9 +7,9 @@
     "dist/css/product-tour.min.css"
   ],
   "authors": [
-    "Theophilus Omoregbee <theo4u@ymail.com>"
+    "Balogun Oghenrobo philip <oghenerobo@gmail.com>, Theophilus Omoregbee <theo4u@ymail.com>"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "tour",
     "preview",
@@ -18,7 +18,7 @@
     "js",
     "npm"
   ],
-  "homepage": "https://github.com/theo4u/Product-Tour",
+  "homepage": "https://github.com/Robophil/Product-Tour",
   "ignore": [
     "**/.*",
     "node_modules",

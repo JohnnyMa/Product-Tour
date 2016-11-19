@@ -14,6 +14,16 @@
  * 2. onClosed --> when the tour is close or destroyed. The current step element is available as a JQueryObject
  * 3. onChanged  --> when our tour moved from one step to another. The current step element is available as a JQueryObject
  * 4. onFinished(No use for the now) --> when our tour has finished its processing. The current step element is available as a JQueryObject
+ * 
+ * ### api stuff to build your custom view
+ * 1. close
+ * 2. next
+ * 3. prev
+ * 4. title
+ * 5. content
+ * 6. info
+ * 
+ * ### css for custom tour element stuff
  */
 var ProductTour;
 (function (jQuery) {
